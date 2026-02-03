@@ -1,7 +1,5 @@
 
-Amod Marathe
-3:52 PM (0 minutes ago)
-to me
+
 
 aim - introduction to python
 
